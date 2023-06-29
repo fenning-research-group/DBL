@@ -5,6 +5,9 @@ Detailed Balance Limit for PV
 
 This repo is dedicated to the detailed balance calculation for AM1.5G limiting PCE  and sub metrics w.r.t. device absorber bandgap
 
-### Demo of resulting calculation
+### Demo PCE Calculation
+![top view](images/AM1.5_Limit_0.png)
 
-![top view](images/AM1.5_Limit.png)
+### Demo Calculation of PCE, FF, Jsc, Voc
+
+![top view](images/AM1.5_Limit_1.png)
