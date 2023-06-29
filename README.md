@@ -1,9 +1,5 @@
 # DBL
-Detailed Balance Limit for PV
-
-## Motivation
-
-This repo is dedicated to the detailed balance calculation for AM1.5G limiting PCE  and sub metrics w.r.t. device absorber bandgap
+Straightforward function that calculates the detailed balance limit (and plots result) for device metrics such as PCE, FF, Voc, Jsc for a desired bandgap under AM1.5G illumination. 
 
 ### Demo PCE Calculation
 ![top view](images/AM1.5_Limit_0.png)
